@@ -22,6 +22,6 @@ To compile and run this program, all you need to do is clone this repository, co
 
 This program expects to receive the data in the format "time_stamp_ms; accel_x_axis; accel_y_axis; accel_z_axis". If the database file is in other format, you can change the program to receive the variables in a diferent order or type.
 
-The final results are displayed in the degrees unit. If the desired unit is radians, you can simply remove the two lines that convert the data unit from radians to degrees.
+The final results are displayed in degrees unit. If the desired unit is radians, you can simply remove the two lines that convert the data unit from radians to degrees.
 
 C++ compiler and basic libraries are required.
